@@ -1,5 +1,2 @@
--Hi, I’m @farbod-mahdian
--I’m interested in computer programming and networking
--I’m currently learning for becomming a senior front-end developer
--I’m looking to collaborate on any automation, web-application, or software developing projects
--How to reach me: You can use my LinkedIn account (https://www.linkedin.com/in/farbod-mahdian-b86871188)
+A dedicated software engineer, I always strive to learn about new technologies and concepts to enhance my skills and develop efficient code for business needs. Solving various problems challenges me and fuels my career growth. Continuously seeking existing problems to solve, I believe there's no challenge I can't tackle, given the wide variety of programming languages available today. My programming journey began in middle school when I self-drivenly sought a private tutor to learn C++, a decision that significantly improved my critical thinking and problem-solving abilities. Since then, I've expanded my skills to include various languages and technologies, enabling me to work on diverse projects such as solving math and physics problems, designing Windows form applications, web applications, mobile applications, and developing back-end systems. In my free time, I enjoy sci-fi movies, working out, playing video games, and sports like tennis and ping-pong. Outdoor activities like escape rooms are also a favorite pastime, and I can never say no to a good cup of coffee!
+My LinkedIn: https://www.linkedin.com/in/farbod-mahdian-b86871188/
